@@ -1,4 +1,4 @@
-name: dog-gpu-project
+name: deep-learning-keras
 channels:
 - damianavila82
 - defaults
@@ -225,5 +225,5 @@ dependencies:
   - theano==0.8.2
   - tqdm==4.11.2
   - urllib3==1.23
-prefix: /anaconda/envs/dog-gpu-project
+prefix: /anaconda/envs/deep-learning-keras
 
